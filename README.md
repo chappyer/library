@@ -5,5 +5,15 @@
 
 ## 个人书籍阅读记录
 
-[test](./2022/On reading/最后一公里村庄.md)
+### 2022
+
+#### On Reading
+
+- [刷新：重新发现商业与未来](./2022/on_reading/刷新：重新发现商业与未来.md)
+- [数学之美](./2022/on_reading/数学之美.md)
+- [未来学大会](./2022/on_reading/未来学大会.md)
+- [最后一公里村庄](./2022/on_reading/最后一公里村庄.md)
+
+
+#### Finish Reading
 
