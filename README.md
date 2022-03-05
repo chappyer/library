@@ -17,3 +17,10 @@
 
 #### Finish Reading
 
+- [变量4-大国的腾挪](./2022/finish_reading/变量4-大国的腾挪.md)
+- [成长的边界](./2022/finish_reading/成长的边界.md)
+- [带上她的眼睛](./2022/finish_reading/带上她的眼睛.md)
+- [猫、爱因斯坦和密码学](./2022/finish_reading/猫、爱因斯坦和密码学.md)
+- [社交天性-人类社交的三大驱动力.md](./2022/finish_reading/社交天性-人类社交的三大驱动力.md)
+- [挽救计划](./2022/finish_reading/挽救计划.md)
+
