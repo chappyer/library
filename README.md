@@ -12,6 +12,7 @@ www.chappyer.com/library
 
 #### On Reading
 
+- [疫苗竞赛-人类对抗疾病的代价](./2022/on_reading/疫苗竞赛-人类对抗疾病的代价.md)
 - [影响力](./2022/on_reading/影响力.md)
 - [为什么-关于因果关系的新科学](./2022/on_reading/为什么-关于因果关系的新科学.md)
 - [拥抱可能](./2022/on_reading/拥抱可能.md)
@@ -26,7 +27,7 @@ www.chappyer.com/library
 - [成长的边界](./2022/finish_reading/成长的边界.md)
 - [带上她的眼睛](./2022/finish_reading/带上她的眼睛.md)
 - [猫、爱因斯坦和密码学](./2022/finish_reading/猫、爱因斯坦和密码学.md)
-- [社交天性-人类社交的三大驱动力.md](./2022/finish_reading/社交天性-人类社交的三大驱动力.md)
+- [社交天性-人类社交的三大驱动力](./2022/finish_reading/社交天性-人类社交的三大驱动力.md)
 - [挽救计划](./2022/finish_reading/挽救计划.md)
 - [刷新-重新发现商业与未来](./2022/finish_reading/刷新-重新发现商业与未来.md)
 - [克拉拉与太阳](./2022/finish_reading/克拉拉与太阳.md)
