@@ -1,5 +1,7 @@
 # library
-[![Visits Badge](https://badges.pufler.dev/visits/chappyer/library)](https://github.com/chappyer/library)[![Updated Badge](https://badges.pufler.dev/updated/chappyer/library)](https://github.com/chappyer/library)
+[![Visits Badge](https://badges.pufler.dev/visits/chappyer/library)](https://github.com/chappyer/library)[![Updated Badge](https://img.shields.io/github/last-commit/chappyer/library?color=blue&label=last%20update)](https://github.com/chappyer/library)
+
+
 
 
 
