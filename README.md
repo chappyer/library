@@ -14,7 +14,7 @@ www.chappyer.com/library
 
 #### On Reading
 
-- [疫苗竞赛-人类对抗疾病的代价](./2022/on_reading/疫苗竞赛-人类对抗疾病的代价.md)
+
 - [影响力](./2022/on_reading/影响力.md)
 - [为什么-关于因果关系的新科学](./2022/on_reading/为什么-关于因果关系的新科学.md)
 - [拥抱可能](./2022/on_reading/拥抱可能.md)
@@ -34,4 +34,5 @@ www.chappyer.com/library
 - [刷新-重新发现商业与未来](./2022/finish_reading/刷新-重新发现商业与未来.md)
 - [克拉拉与太阳](./2022/finish_reading/克拉拉与太阳.md)
 - [置身事内-中国政府与经济发展](./2022/finish_reading/置身事内-中国政府与经济发展.md)
+- [疫苗竞赛-人类对抗疾病的代价](./2022/finish_reading/疫苗竞赛-人类对抗疾病的代价.md)
 
