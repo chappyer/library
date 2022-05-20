@@ -14,7 +14,7 @@ www.chappyer.com/library
 
 #### On Reading
 
-
+- [棉花帝国-一部资本主义全球史](./2022/on_reading/棉花帝国-一部资本主义全球史.md)
 - [影响力](./2022/on_reading/影响力.md)
 - [为什么-关于因果关系的新科学](./2022/on_reading/为什么-关于因果关系的新科学.md)
 - [拥抱可能](./2022/on_reading/拥抱可能.md)
