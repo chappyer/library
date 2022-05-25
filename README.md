@@ -13,7 +13,7 @@ www.chappyer.com/library
 ### 2022
 
 #### On Reading
-- [一个故事的99种讲法](./2022/on_reading/一个故事的99种讲法.md)
+- [贪婪的多巴胺](./2022/on_reading/贪婪的多巴胺.md)
 - [棉花帝国-一部资本主义全球史](./2022/on_reading/棉花帝国-一部资本主义全球史.md)
 - [影响力](./2022/on_reading/影响力.md)
 - [为什么-关于因果关系的新科学](./2022/on_reading/为什么-关于因果关系的新科学.md)
@@ -35,4 +35,6 @@ www.chappyer.com/library
 - [克拉拉与太阳](./2022/finish_reading/克拉拉与太阳.md)
 - [置身事内-中国政府与经济发展](./2022/finish_reading/置身事内-中国政府与经济发展.md)
 - [疫苗竞赛-人类对抗疾病的代价](./2022/finish_reading/疫苗竞赛-人类对抗疾病的代价.md)
+- [一个故事的99种讲法](./2022/finish_reading/一个故事的99种讲法.md)
+- [孙子兵法](./2022/finish_reading/孙子兵法.md)
 
