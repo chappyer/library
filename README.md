@@ -44,3 +44,9 @@ From ⭐ to ⭐⭐⭐⭐⭐，recommendation level from low to high.
 - [孙子兵法](./2022/finish_reading/孙子兵法.md)
 - [拥抱可能](./2022/finish_reading/拥抱可能.md)
 
+#### May Reading
+
+- 切尔诺贝利的午夜
+- 下沉年代
+- 星之继承者
+
