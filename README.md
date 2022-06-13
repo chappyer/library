@@ -20,10 +20,6 @@ From ⭐ to ⭐⭐⭐⭐⭐，recommendation level from low to high.
 
 #### On Reading
 
-<<<<<<< HEAD
-=======
-- [切尔诺贝利的午夜](./2022/on_reading/切尔诺贝利的午夜.md)
->>>>>>> dc3adc22a04cdf33be4ffcdfd22a04c27b6c77d1
 - [贪婪的多巴胺](./2022/on_reading/贪婪的多巴胺.md)
 - [棉花帝国-一部资本主义全球史](./2022/on_reading/棉花帝国-一部资本主义全球史.md)
 - [影响力](./2022/on_reading/影响力.md)
