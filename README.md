@@ -20,8 +20,6 @@ From ⭐ to ⭐⭐⭐⭐⭐，recommendation level from low to high.
 
 #### On Reading
 
-- [切尔诺贝利的午夜](./2022/on_reading/切尔诺贝利的午夜.md)
-
 - [贪婪的多巴胺](./2022/on_reading/贪婪的多巴胺.md)
 - [棉花帝国-一部资本主义全球史](./2022/on_reading/棉花帝国-一部资本主义全球史.md)
 - [影响力](./2022/on_reading/影响力.md)
@@ -46,6 +44,7 @@ From ⭐ to ⭐⭐⭐⭐⭐，recommendation level from low to high.
 - [一个故事的99种讲法](./2022/finish_reading/一个故事的99种讲法.md)
 - [孙子兵法](./2022/finish_reading/孙子兵法.md)
 - [拥抱可能](./2022/finish_reading/拥抱可能.md)
+- [切尔诺贝利的午夜](./2022/finish_reading/切尔诺贝利的午夜.md)
 
 #### May Reading
 
